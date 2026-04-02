@@ -528,9 +528,9 @@ min-width: 1200px;
 }
 
 @media (orientation: portrait) {
-  body {
+  /* body {
     background-color: red;
-  }
+  } */
 }
 
 @media (max-width: 350px) {
